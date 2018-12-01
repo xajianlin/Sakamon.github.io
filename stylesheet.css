@@ -51,7 +51,7 @@ a {
 
 .facebook {
   background-color: #3b5998;
-  margin-right: 10px;
+  margin-right: 50px;
 }
 
 .twitter {
@@ -63,7 +63,7 @@ a {
   color: white;
   display: inline-block;
   opacity: 0.8;
-  border-radius: 4px;
+  border-radius: 20px;
   text-align: center;
 }
 
